@@ -3,3 +3,4 @@
 # Boards build by CMake
 
 CMake,raspberrypi-pico:bmp280
+CMake,raspberrypi-pico:smp
